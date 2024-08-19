@@ -28,7 +28,7 @@ public class PlayingArea extends JPanel implements ActionListener {
     private boolean downDirection = false;
     private boolean leftDirection = false;
     private boolean rightDirection = true;
-//    private boolean isVictory = false;    // For "Game with Score Limit only"
+//    private boolean isVictory = false;    // For "Game with Score Limit" only
 
     private Timer timer;
     private Image dot;
